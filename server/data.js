@@ -9,13 +9,13 @@ module.exports = {
   "users": [
     {
       "_id": user1Id,
-      "email": "filip@gmail.com",
+      "email": "abdullahiabolaji@gmail.com",
       "name": "Filip Jerga",
       "info": "Bla bla bla bla",
       "createdAt": moment().toISOString(),
       "updatedAt": moment().toISOString(),
-      "username": "Rhonyn99",
-      "password": "testtest",
+      "username": "bayospending",
+      "password": "spending223",
     },
     {
       "_id": user2Id,
